@@ -283,14 +283,12 @@ python linear_regression.py
 
 ## => Connect
 
-**[Your Name]** *AI & Machine Learning Engineer*
+**Saleem Ali** *AI & Machine Learning Engineer*
 
-[LinkedIn Profile Link] | [Portfolio Website Link] | [Email Address]
+[LinkedIn Profile](https://www.linkedin.com/in/saleem-ali) | [GitHub Repositories](https://github.com/SaleemAli?tab=repositories)
 
 ---
-
-**Status:** Completed
-
+**Status:** Completed  
 **Institution:** Al Nafi International College
 
 ```
