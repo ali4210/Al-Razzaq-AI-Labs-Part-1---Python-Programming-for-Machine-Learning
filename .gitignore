@@ -1,0 +1,56 @@
+# ===========================
+# 1. Python & Compiled Files
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ===========================
+# 2. Virtual Environments
+# (Never push these; they are massive and machine-specific)
+# ===========================
+venv/
+env/
+.venv/
+.env/
+
+# ===========================
+# 3. IDE Settings (PyCharm & VS Code)
+# (Contains local user preferences you don't want to share)
+# ===========================
+.idea/
+.vscode/
+*.swp
+
+# ===========================
+# 4. Sensitive Information & Secrets
+# (CRITICAL: Prevents API keys/passwords from leaking)
+# ===========================
+.env
+.env.local
+secrets.json
+api_keys.py
+config.py
+
+# ===========================
+# 5. Project-Specific Large Files
+# (GitHub has a 100MB limit. Uncomment these if your models/data are huge)
+# ===========================
+# *.pkl
+# *.h5
+# *.csv
+# *.xlsx
+# data/
+
+# ===========================
+# 6. Jupyter Notebook Checkpoints
+# ===========================
+.ipynb_checkpoints/
+
+# ===========================
+# 7. OS Generated Files
+# ===========================
+.DS_Store
+Thumbs.db

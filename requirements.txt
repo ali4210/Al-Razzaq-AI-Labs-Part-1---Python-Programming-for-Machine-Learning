@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+nltk
+tensorflow
+beautifulsoup4
+requests
+opencv-python
+Pillow
+graphviz
+missingno
