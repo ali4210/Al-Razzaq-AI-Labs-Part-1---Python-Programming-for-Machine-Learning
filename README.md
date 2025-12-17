@@ -1,4 +1,4 @@
-# Al Nafi International College - AI & Machine Learning Lab Portfolio
+#  AI & Machine Learning Lab Portfolio
 
 ## => Project Overview
 This repository hosts a comprehensive collection of **50 practical labs** completed during the **Artificial Intelligence and Machine Learning certification** at **Al Nafi International College**.
