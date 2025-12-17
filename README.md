@@ -1,10 +1,3 @@
-Here is your **final, complete, and polished README file**.
-
-It includes everything we discussed: the professional overview, the directory tree, the module descriptions, and the highly precise "Universal Code Templates" in the guidelines section. You can copy this entire block directly into your `README.md`.
-
----
-
-```markdown
 # Al Nafi International College - AI & Machine Learning Lab Portfolio
 
 ## => Project Overview
